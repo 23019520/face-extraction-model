@@ -165,11 +165,9 @@ faceloading.plot_images()
 
 After preprocessing, the system displays detected and cropped faces in a grid format to verify detection quality.
 
-> 📌 Insert your screenshots here:
 
-```md
-![Result 1](pic1.png)
-![Result 2](pic2.png)
+![Result 1](images/pic1.png)
+![Result 2](images/pic2.png)
 ```
 
 
